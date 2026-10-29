@@ -24,7 +24,7 @@ features = [
 ]
 
 [dependencies.wasmtime]
-version = "46"
+version = "48"
 default-features = false
 features = [
   "wat",
